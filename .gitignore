@@ -2,3 +2,9 @@ IN/*
 !IN/.gitkeep
 OUT/*
 !OUT/.gitkeep
+
+# Ignorer le fichier modèle volumineux
+application_fraude/RF_model.pkl
+
+# Ignorer la bibliothèque xgboost volumineuse
+my_env_IARD/Lib/site-packages/xgboost/lib/xgboost.dll
