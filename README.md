@@ -1,8 +1,8 @@
 # Assurance IARD
 
-- Ce projet est le travail acharné de trois Data Scientist, dont le but est de répondre à un besoin métier.
+- Ce projet est le travail acharné de trois Data Scientists, dont le but est de répondre à un besoin métier.
 
-- Pour ce faire, notre objectif est d'apporter aux compagnies d'assurances une solution pourrait répondre à leur besoin sur le sujet de la lutte contre la fraude à l'assurance IARD.
+- Pour ce faire, notre objectif est d'apporter aux compagnies d'assurances une solution qui pourrait répondre à leur besoin sur le sujet de la lutte contre la fraude à l'assurance IARD.
 
 # Contexte projet
 
